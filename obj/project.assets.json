@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Student\\Nemaki\\Unity\\2027last\\2027lastApp\\2027lastApp.csproj",
+      "projectUniqueName": "C:\\Student\\Nemaki\\Unity\\2027last\\2027lastApp.csproj",
       "projectName": "2027lastApp",
-      "projectPath": "C:\\Student\\Nemaki\\Unity\\2027last\\2027lastApp\\2027lastApp.csproj",
+      "projectPath": "C:\\Student\\Nemaki\\Unity\\2027last\\2027lastApp.csproj",
       "packagesPath": "C:\\Users\\pg401\\.nuget\\packages\\",
-      "outputPath": "C:\\Student\\Nemaki\\Unity\\2027last\\2027lastApp\\obj\\",
+      "outputPath": "C:\\Student\\Nemaki\\Unity\\2027last\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
